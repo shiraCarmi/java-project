@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/H:/library/src/java/libraryClass/Book.java</file>
+            <file>file:/H:/library/web/WEB-INF/web.xml</file>
+            <file>file:/H:/library/src/java/libraryClass/Magazine.java</file>
+            <file>file:/H:/library/web/index.html</file>
+            <file>file:/H:/library/src/java/libraryClass/ClientLibrary.java</file>
+            <file>file:/H:/library/src/java/services/HibernateUtil.java</file>
+            <file>file:/H:/library/src/java/libraryClass/Item.java</file>
+            <file>file:/H:/library/src/java/libraryClass/Lending.java</file>
+            <file>file:/H:/library/src/java/services/LendingService.java</file>
+            <file>file:/H:/library/src/java/hibernate.cfg.xml</file>
+            <file>file:/H:/library/src/java/services/ItemService.java</file>
+            <file>file:/H:/library/src/java/services/BookService.java</file>
+            <file>file:/H:/library/src/java/libraryClass/Main.java</file>
+            <file>file:/H:/library/src/java/services/ClientService.java</file>
+        </group>
+    </open-files>
+</project-private>
